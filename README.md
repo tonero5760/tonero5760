@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tonero5760
-- 👀 I’m interested in Javascript,Php,NodeJs,Python,Java,Android,React
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Python,NodeJs and Php project
-- 📫 How to reach me ...
+- 👋 Hi, I’m uzoka Toni
+- 👀 I’m interested in Javascript,React,Php,NodeJs,Python,Flutter,Linux and Devops
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Null
+- 📫 uzkat.au@gmail.com
 
 <!---
 tonero5760/tonero5760 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
