@@ -1,7 +1,7 @@
 - 👋 Hi, I’m uzoka Toni
 - 👀 I’m interested in Javascript,React,Php,NodeJs,Python,Flutter,Linux and Devops
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Null
+- 🌱 I’m currently learning Typescript,React/Typescript and RN
+- 💞️ I’m looking to collaborate on Laravel and Nodejs
 - 📫 uzkat.au@gmail.com
 
 <!---
